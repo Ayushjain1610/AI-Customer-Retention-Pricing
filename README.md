@@ -24,7 +24,7 @@ Predict customer churn, identify key drivers, and recommend pricing & retention 
 - Matplotlib
 
 ## 📂 Data Note
-Raw customer data is not included in this repository due to size and privacy considerations.
+Raw and Processed customer data is not included in this repository due to size and privacy considerations.
 
 The project focuses on:
 - Feature engineering

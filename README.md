@@ -23,6 +23,17 @@ Predict customer churn, identify key drivers, and recommend pricing & retention 
 - Streamlit
 - Matplotlib
 
+## 📂 Data Note
+Raw customer data is not included in this repository due to size and privacy considerations.
+
+The project focuses on:
+- Feature engineering
+- Modeling
+- Explainability
+- Dashboarding
+
+Synthetic or processed samples can be added if needed.
+
 ## 📁 Project Structure
 ```text
 project_1/

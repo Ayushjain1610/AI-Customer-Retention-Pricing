@@ -38,6 +38,5 @@ Synthetic or processed samples can be added if needed.
 ```text
 project_1/
 ├── dashboards/
-├── data/
 ├── models/
 ├── notebooks/
